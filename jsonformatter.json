@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1139481399"
+          },
+          "name": {
+            "label": "Modeldess"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-27T14:59:18-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10986726128"
+        },
+        "title": {
+          "label": "great!"
+        },
+        "content": {
+          "label": "everything i need is on the app and i love the convenience of it able to change almost everything from the app and comfort of my home.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1416706653"
+          },
+          "name": {
+            "label": "TedDaTopDawg"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-27T08:29:57-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10985747142"
+        },
+        "title": {
+          "label": "Fantastic"
+        },
+        "content": {
+          "label": "Great app, considerable service. Just make sure to pay your bills on time.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id321435752"
+          },
+          "name": {
+            "label": "ClairePDX12"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-27T06:18:40-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10985336316"
+        },
+        "title": {
+          "label": "Nothing in this app works"
+        },
+        "content": {
+          "label": "Want to reach support? You’ll get an error. Want to leave feedback? Error code. They lost all the MyFios features and replaced it with garbage.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id41766821"
+          },
+          "name": {
+            "label": "lm23"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-27T05:36:17-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10985196379"
+        },
+        "title": {
+          "label": "Faulty app"
+        },
+        "content": {
+          "label": "Extremely slow. Waste of time. Just call customer service.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id431764346"
+          },
+          "name": {
+            "label": "rfguevara07"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-26T17:47:19-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10983590554"
+        },
+        "title": {
+          "label": "Glitchy mess that constantly crashes"
+        },
+        "content": {
+          "label": "Not sure how this app has any good ratings, I’m lucky if it works half the time. For the amount of times I need to reach out to customer support, you’d think my app wouldn’t crash midway through the conversation.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1417090868"
+          },
+          "name": {
+            "label": "the lone roofer"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-26T17:10:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10983507123"
+        },
+        "title": {
+          "label": "Verizon"
+        },
+        "content": {
+          "label": "Thanks a lot Verizon is great your people really are nice and greatly help me love u all thank u",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1070285839"
+          },
+          "name": {
+            "label": "benandbutter"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-26T16:21:31-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10983397784"
+        },
+        "title": {
+          "label": "You need a degree in computer engineering to set parental controls."
+        },
+        "content": {
+          "label": "This app was developed exclusively to make it user unfriendly.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id915452386"
+          },
+          "name": {
+            "label": "Juliet_V"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-26T10:01:04-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10982524012"
+        },
+        "title": {
+          "label": "New to Verizon, App is User Friendly"
+        },
+        "content": {
+          "label": "Very user friendly app experience and functional for what I use it for which is mainly paying my bill and purchasing new devices or add ons to my existing plans. I have three lines and always seem to find some new deals on Verizon Up to add to my plan or add to my perks too. Really loving it so far!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id37135112"
+          },
+          "name": {
+            "label": "Sundulos"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-26T07:55:44-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10982178337"
+        },
+        "title": {
+          "label": "So slow to post my bill/ receipt"
+        },
+        "content": {
+          "label": "Verizon is very quick to take my money but very slow to give me a receipt. No other businesses are allowed to operate where it takes two weeks to give you your bill/receipt for payment. Why is Verizon so poor in customer service",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1478895565"
+          },
+          "name": {
+            "label": "AlleyBear91"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-26T04:39:13-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10981595984"
+        },
+        "title": {
+          "label": "Useless"
+        },
+        "content": {
+          "label": "Forced into this app to manage my router and most of the functions don’t even work.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1619106064"
+          },
+          "name": {
+            "label": "Co2276"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T21:13:40-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "11.1.4"
+        },
+        "id": {
+          "label": "10980636733"
+        },
+        "title": {
+          "label": "Very bad"
+        },
+        "content": {
+          "label": "Wow what can I say",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id599640386"
+          },
+          "name": {
+            "label": "Doy M"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T19:21:09-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10980410281"
+        },
+        "title": {
+          "label": "LRS"
+        },
+        "content": {
+          "label": "Can’t complain. The only carrier I have ever since.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id185896675"
+          },
+          "name": {
+            "label": "Realluckycharm"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T10:27:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10979159445"
+        },
+        "title": {
+          "label": "Neutral"
+        },
+        "content": {
+          "label": "I love the app not the customer services reps.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id545128362"
+          },
+          "name": {
+            "label": "Pick3pro"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T10:26:48-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10979157760"
+        },
+        "title": {
+          "label": "Wireless speeds, not as advertised"
+        },
+        "content": {
+          "label": "Verizon has really fell off in the New York City area. I had it about six years ago and it was great. I left and came back and now it’s terrible. They don’t have enough bandwidth. They’re not even accepting new home Internet customers right now. Very disappointed and I am stuck with them for three years unless I pay off the phone cash which is free over three years via billing credits.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id237723665"
+          },
+          "name": {
+            "label": "TDC0430"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T06:30:33-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10978425387"
+        },
+        "title": {
+          "label": "Useless app zero stars. Under performing app"
+        },
+        "content": {
+          "label": "Sort most recent reviews in app store and you will see app is nowhere near the rating. 5g home is now integrated into already saturated app and offers zero features other than you have home internet. Every feature on app errors out while trying to use. Parental features for Home internet on app do not work! Remove the Verizon Up. Nothing more than vw trying to offload slow selling products—useless. App needs a makeover and a better app team since everything else is sourced out to overseas workers you call tell by dismal performance and dated features within app. WIFI ANALYSIS IS A GIMMICK. Doesn’t even work. I have slow Verizon Home and VW sent notifications on app and text, then tried to sell me an Wifi Extender on their known underperforming Home Service!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id957257034"
+          },
+          "name": {
+            "label": "Angry customer 166"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T05:28:37-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10978228377"
+        },
+        "title": {
+          "label": "Stinks"
+        },
+        "content": {
+          "label": "Your App and website really stinks. That’s putting it nicely then what I really think of it. First I don’t have a login issue. I can login. I use can do anything except get to the ACTIVATE OR SWITCH DEVICES. I get a message saying WE RAN INTO A PROGRAM WITH YOUR REQUEST ONLINE CALL 1-800-922-0204 FOR ASSISTANCE I still can login can go to bill, etc. Now our devices pictures are gone, and there is a link that says MANAGE DEVICES I click on that  in says YOUR REQUEST COULD NOT BE PROCESSED AT THIS TIME. PLEASE TRY AGAIN LATER. I have called about this issue with the activate and switch devices issue too many times and getting tired of the run around. You folks are about to lose a 19 year customer.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1410797511"
+          },
+          "name": {
+            "label": "Addie Lee 3"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T05:06:02-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10978160211"
+        },
+        "title": {
+          "label": "It’s Verizon, service couldn’t be better!"
+        },
+        "content": {
+          "label": "I’m impressed with the download and upload speeds from the home internet and from the mobile hotspot. It has been excellent for work and school.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id878178201"
+          },
+          "name": {
+            "label": "chanchis80"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-25T04:57:43-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10978135521"
+        },
+        "title": {
+          "label": "Fast and truly reliable"
+        },
+        "content": {
+          "label": "After almost pulling my hair with slow data outages and unreliability finally found great service",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id593357861"
+          },
+          "name": {
+            "label": "AteGad"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-24T16:09:38-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10976285967"
+        },
+        "title": {
+          "label": "Coverage"
+        },
+        "content": {
+          "label": "The WiFi isn’t covering the entire house",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1604453586"
+          },
+          "name": {
+            "label": "Pepee…"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-24T13:11:50-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10975877535"
+        },
+        "title": {
+          "label": "Muy buen servicio la verdad es que no tengo quejas"
+        },
+        "content": {
+          "label": "Siempre hay internet y buena señal",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id697395299"
+          },
+          "name": {
+            "label": "Kwiksetrippoff"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-24T10:43:00-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10975466544"
+        },
+        "title": {
+          "label": "Account Management"
+        },
+        "content": {
+          "label": "They cancel their fios app telling you to use this one but if you already have wireless plan this app it will not let you merge the two. Don’t even try talking to customer service they will tell you it can’t be done even though the app appears set up for it.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id248847961"
+          },
+          "name": {
+            "label": "MacySee"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-24T08:31:52-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10975050195"
+        },
+        "title": {
+          "label": "Crash"
+        },
+        "content": {
+          "label": "Got a brand new phone. App crashes a lot and makes you log in 5 times. And you still don’t get the information you need. You’re better off going in the store than downloading app.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1323854288"
+          },
+          "name": {
+            "label": "AOF World Traveler"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T20:47:00-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10973120670"
+        },
+        "title": {
+          "label": "Useless and incompetent service"
+        },
+        "content": {
+          "label": "I was trying to get information on switching to Verizon but the automated system and chat are by far the worst and by the questions the robot asked it’s obvious that they don’t pay attention to anything, they don’t even produce a functional system and after going through the chat and getting nowhere the phone robot was just as incompetent and built by intellectually deficient IT people and managers. At the end of everything the robots told me that they are closed. 8:30 pm in California and Verizon has absolutely no one working. Of all they care about is the east coast then let everyone not helped transfer their phone service to another company. Verizon obviously doesn’t care about customer service.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1456776400"
+          },
+          "name": {
+            "label": "bretthilloffical"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T19:49:19-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10972984338"
+        },
+        "title": {
+          "label": "Copyright"
+        },
+        "content": {
+          "label": "Why is your copyright for 2021? \nThis one of the worst apps I have used,  it is too slow, functionality is lacking and to get an actual Verizon employee on the phone and how to find that information on the app is near impossible….take everything through a chat that just wants to delay you.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id581832451"
+          },
+          "name": {
+            "label": "HERCULESDAONEANDONLY"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T17:22:15-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10972614276"
+        },
+        "title": {
+          "label": "Verizon is the best."
+        },
+        "content": {
+          "label": "I love my version iPhone even though I ordered my phone with 256 gigs but they sent me 128 gigs but I still Love My Phone Thanks.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1628216637"
+          },
+          "name": {
+            "label": "Robbie not Robert"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T15:59:24-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10972411954"
+        },
+        "title": {
+          "label": "Not user friendly"
+        },
+        "content": {
+          "label": "The worst app ever! Cannot even give this company my money to pay for my overpriced phone bill with all the hidden fees. Ridiculous!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1433946099"
+          },
+          "name": {
+            "label": "Ghfbhech"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T13:33:34-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10972074239"
+        },
+        "title": {
+          "label": "Appreciate everything"
+        },
+        "content": {
+          "label": "Thank u for everything and for good service 👍",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1071309582"
+          },
+          "name": {
+            "label": "tycumagain"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T12:40:53-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10971948852"
+        },
+        "title": {
+          "label": "Thieves"
+        },
+        "content": {
+          "label": "I currently have 2 lines, (one of which I requested to have canceled by the eighth of this month but they kept it going) now I’ve had my services interrupted for 370 + dollars and I refuse to pay until I get explained how my bill is so high for just the 2 lines. But the will not deal with me in any way shape or form until I pay that money that I’m sure I don’t owe. The next bill is allegedly 400 for 2 lines thats absurd I demand it be rectified before I pay anything. That’s crazy!!!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id13842111"
+          },
+          "name": {
+            "label": "Posterized"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T05:35:22-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10970716600"
+        },
+        "title": {
+          "label": "Lackluster"
+        },
+        "content": {
+          "label": "Biggest gripe is the widget not showing how many days are left for the data for the month.\n\nTo check you have to click the widget > wait for it to load the personal data usage > click the account tab on the bottom > click usage.  All this for something that should show on the widget in the first place. \n\nAlso, the app basically being a shell for the webpage really shows when there are constant load times to navigate between each screen, and the complete lack of visual feedback for any interaction (click/touch) with the interface. \n\nTwo stars are for the simple existence of a widget showing remaining data (PLZ add REMAINING DAYS!!!)",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1372690261"
+          },
+          "name": {
+            "label": "Mtr c"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T04:10:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10970452185"
+        },
+        "title": {
+          "label": "Muy fácil y rápido gracias"
+        },
+        "content": {
+          "label": "Gracias",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1036560925"
+          },
+          "name": {
+            "label": "seena81"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-23T01:25:49-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10970032324"
+        },
+        "title": {
+          "label": "Service"
+        },
+        "content": {
+          "label": "The internet wifi is horrible. I literally switched from spectrum because Verizon made it seem like there was so much better when mean woke the wifi boxes don’t do far. I never had this problem with soectrum",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id339738037"
+          },
+          "name": {
+            "label": "MissouriMayor"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-22T16:56:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10968857510"
+        },
+        "title": {
+          "label": "Satisfied"
+        },
+        "content": {
+          "label": "I have been with Verizon for 20 years.  Have traveled all over the United States and into Canada and Mexico.  Have had service everywhere.  Verizon is the best.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1098899079"
+          },
+          "name": {
+            "label": "the iroshman6969"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-22T15:17:18-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10968626990"
+        },
+        "title": {
+          "label": "Does not block. Premium is junk"
+        },
+        "content": {
+          "label": "So I’ve turned on blocking etc as needed to block spam calls yet the app doesn’t know it’s turned on. This app is total junk. I just paid for something that doesn’t work. Want my money back!!!!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1365051884"
+          },
+          "name": {
+            "label": "NadiaLu000"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-22T08:15:00-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10967564817"
+        },
+        "title": {
+          "label": "Convenient"
+        },
+        "content": {
+          "label": "Very convenient how we can change our phone plans throughout the app. I love it, keep up the good work.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1221180090"
+          },
+          "name": {
+            "label": "cvgregs"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-22T06:56:12-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10967322413"
+        },
+        "title": {
+          "label": "Great"
+        },
+        "content": {
+          "label": "Easy and reliable",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1135085248"
+          },
+          "name": {
+            "label": "Marciell L."
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-22T00:40:10-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10966286273"
+        },
+        "title": {
+          "label": "FANTASTIC!!"
+        },
+        "content": {
+          "label": "I’ve been using Verizon Fios for a while and honestly, it’s been a fantastic choice. The speed is incredible - streaming, gaming, and browsing are all seamless and fast. What really stands out is the reliability; I’ve experienced no dropouts or slowdowns, which is crucial for both work and leisure these days. On the rare occasion I’ve needed support, customer service was prompt and helpful. The installation process was straightforward, too. Overall, Verizon Fios has delivered on every front - speed, reliability, and service. Highly recommend it to anyone looking to switch or upgrade their internet service.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1235384837"
+          },
+          "name": {
+            "label": "Luchy Almanzar"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T18:13:50-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10965432855"
+        },
+        "title": {
+          "label": "My Verizon"
+        },
+        "content": {
+          "label": "Me gustó, me facilita mis pagos, gracias.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id169111887"
+          },
+          "name": {
+            "label": "yldiydoyf"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T14:34:26-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10964939374"
+        },
+        "title": {
+          "label": "Cannot login no matter what"
+        },
+        "content": {
+          "label": "Always says max limited try… the max allowed is ZERO and you get this on the first attempt. Change the password, same thing. You have to sign in repeatedly and it never lets you in. Each attempt you get a verification through the app, AND a text. Which is it? None work anyway. Worst app I have ever seen. I only got in once when customer service sat on the phone with me for 20 min, and would correct things on their side during the attempt. Sent me a temp password, I got in and changed the password. That was the last time I saw my account. Now I am back to the same ‘maximum attempts reached’ on my first try.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1120916254"
+          },
+          "name": {
+            "label": "Sh@dow334"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T12:38:01-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10964671654"
+        },
+        "title": {
+          "label": "Help"
+        },
+        "content": {
+          "label": "Great",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id770749158"
+          },
+          "name": {
+            "label": "Cu. belo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T12:20:17-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10964629921"
+        },
+        "title": {
+          "label": "Service"
+        },
+        "content": {
+          "label": "Excellent Service",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id192209294"
+          },
+          "name": {
+            "label": "Mister Washington"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T11:26:53-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10964497602"
+        },
+        "title": {
+          "label": "Great Service"
+        },
+        "content": {
+          "label": "I’m sorry I ever left.  Good to be back.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id626564664"
+          },
+          "name": {
+            "label": "100% nica"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T09:47:36-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10964233714"
+        },
+        "title": {
+          "label": "Buen trabajo"
+        },
+        "content": {
+          "label": "Un súper servicio, gracias",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1627347576"
+          },
+          "name": {
+            "label": "just.phil990"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T07:00:28-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10963733186"
+        },
+        "title": {
+          "label": "Buggy and slow"
+        },
+        "content": {
+          "label": "Every click of a button takes 5-10 seconds at least to have it respond, it makes navigating the app frustratingly slow. Trying to get support through this app feels almost impossible. The old app worked great, why we were forced to move to this buggy unfinished app is beyond me",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id311972497"
+          },
+          "name": {
+            "label": "RedHotChillerPep"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T06:53:01-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10963710060"
+        },
+        "title": {
+          "label": "Please update this"
+        },
+        "content": {
+          "label": "Why would a phone company not have the ability to automatically fill in SMS OTP? So annoying for MFA. You have to go to your text, copy the passcode, go back to the app and paste it. FWP, I know, but it’s a technology company. Join the wave.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1020368569"
+          },
+          "name": {
+            "label": "royalroyy"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T06:31:18-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10963640755"
+        },
+        "title": {
+          "label": "Glitchy"
+        },
+        "content": {
+          "label": "Glitches constantly occur with this app it’s favorite phrase is unable to process request absolutely terrible",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id85079001"
+          },
+          "name": {
+            "label": "Dragonspank"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T06:11:55-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10963580445"
+        },
+        "title": {
+          "label": "Cant complete your request right now"
+        },
+        "content": {
+          "label": "From day one this is all I get. This app is garbage.  Please go back to the old one.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id447184956"
+          },
+          "name": {
+            "label": "Anthony spad"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-21T02:05:00-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10962892587"
+        },
+        "title": {
+          "label": "Poor reception"
+        },
+        "content": {
+          "label": "Never have service",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1627152809"
+          },
+          "name": {
+            "label": "Tyler2115"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-20T18:54:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10961960384"
+        },
+        "title": {
+          "label": "Review"
+        },
+        "content": {
+          "label": "The best carrier app I’ve used it’s fast.  Sometimes the account tab goes out for updates but other than that the app is Amazon",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id114193399"
+          },
+          "name": {
+            "label": "DBarnsNY"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-20T15:04:50-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10961440098"
+        },
+        "title": {
+          "label": "Garbage service"
+        },
+        "content": {
+          "label": "Verizon has the absolute customer service I’ve ever experienced. Switched to AT&T today and can not wait to reduce my bill by 50% and speak to humans.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1165217841"
+          },
+          "name": {
+            "label": "Santo1969"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-02-20T14:02:47-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "11.2.0"
+        },
+        "id": {
+          "label": "10961304596"
+        },
+        "title": {
+          "label": "Owner"
+        },
+        "content": {
+          "label": "Great service helpful and very professional",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=416023011&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2024-03-05T03:26:42-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://mzstoreservices-int-st.itunes.apple.com/us/rss/customerreviews/page=2/id=416023011/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=416023011/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=416023011/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=416023011/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=416023011/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=416023011/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=416023011/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=416023011/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=416023011/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://mzstoreservices-int-st.itunes.apple.com/us/rss/customerreviews/page=2/id=416023011/json"
+    }
+  }
+}
